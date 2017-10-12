@@ -1,7 +1,0 @@
-C:\Users\soni\Documents\ACA\csharp-workbook\01Week\HelloWorld\HelloWorld\bin\Debug\HelloWorld.exe.config
-C:\Users\soni\Documents\ACA\csharp-workbook\01Week\HelloWorld\HelloWorld\bin\Debug\HelloWorld.exe
-C:\Users\soni\Documents\ACA\csharp-workbook\01Week\HelloWorld\HelloWorld\bin\Debug\HelloWorld.pdb
-C:\Users\soni\Documents\ACA\csharp-workbook\01Week\HelloWorld\HelloWorld\obj\Debug\HelloWorld.csprojResolveAssemblyReference.cache
-C:\Users\soni\Documents\ACA\csharp-workbook\01Week\HelloWorld\HelloWorld\obj\Debug\HelloWorld.csproj.CoreCompileInputs.cache
-C:\Users\soni\Documents\ACA\csharp-workbook\01Week\HelloWorld\HelloWorld\obj\Debug\HelloWorld.exe
-C:\Users\soni\Documents\ACA\csharp-workbook\01Week\HelloWorld\HelloWorld\obj\Debug\HelloWorld.pdb
